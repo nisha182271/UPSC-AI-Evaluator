@@ -1,0 +1,12 @@
+﻿venv/
+paddle_env/
+surya_test_env/
+__pycache__/
+*.pyc
+.env
+uploads/
+processed/
+*.png
+*.jpg
+*.jpeg
+answer_output.json
