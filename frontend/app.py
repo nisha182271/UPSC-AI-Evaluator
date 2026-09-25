@@ -45,7 +45,7 @@ if uploaded_file is not None:
             try:
 
                 response = requests.post(
-                    "http://127.0.0.1:8000/upload",
+                    "https://discusses-neighbor-recognised-designer.trycloudflare.com/upload",
                     files=files,
                     timeout=900
                 )
